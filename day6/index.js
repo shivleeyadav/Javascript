@@ -91,5 +91,10 @@ const a = [101,90,80,32,91];
 // a.sort();
 // console.log(a);
 
-a.sort((a,b)=>a-b);
-console.log(a);
+// a.sort((a,b)=>a-b);             sort normally
+// console.log(a);
+
+//if array k andar array uske andar bhi array bhot jyada array agr present ho to use flat krne k liye 
+//arr.flat(Infinity);   //flat all level once
+
+//array is not array in javascript it is an object becoz in js elements in array can be of diff types and not contigous
