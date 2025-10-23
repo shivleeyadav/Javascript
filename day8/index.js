@@ -68,13 +68,13 @@
 // }
 // meet(greet);
 
-function zomatoorderplaced(){
-    console.log("We have started"); 
-}
+// function zomatoorderplaced(){
+//     console.log("We have started"); 
+// }
 
-function payment(amount){
-    console.log(`${amount} payment has initialized`);
-    console.log("Payment is recieved");
-    zomatoorderplaced();
-}
-payment(500);
+// function payment(amount){
+//     console.log(`${amount} payment has initialized`);
+//     console.log("Payment is recieved");
+//     zomatoorderplaced();
+// }
+// payment(500);
